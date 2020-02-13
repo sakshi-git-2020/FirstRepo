@@ -1,0 +1,3 @@
+In this demo we are understanding about recursive merg
+when changes are done to the master branch while working with
+multiple branches
